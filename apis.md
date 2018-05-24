@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19063-arxa
 x-kinRank: "8"
 x-alexaRank: "1084126"
 tags: Arxan Technologies
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/arxan-technologies/master/_listings/arxan-technologies/apis.md
 specificationVersion: "0.14"
 apis: []
